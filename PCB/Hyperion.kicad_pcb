@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 11)
     (tracks 0)
     (zones 0)
     (modules 118)
@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF77F)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -4124,7 +4124,7 @@
       (net 69 col5))
   )
 
-  (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1BDD)
+  (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBC42C6)
     (at 188.362347 120.309563 355)
     (path /5DA42EC1)
     (fp_text reference SW24 (at 7.1 8.2 355) (layer F.SilkS) hide
@@ -4353,7 +4353,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1C9D)
-    (at 238.598262 101.221366 5)
+    (at 238.598262 101.332054 5)
     (path /5DA42252)
     (fp_text reference SW28 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4410,7 +4410,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1CCD)
-    (at 240.258579 120.198875 5)
+    (at 240.258579 120.309563 5)
     (path /5DA42EC8)
     (fp_text reference SW29 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4467,7 +4467,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1CFD)
-    (at 241.918896 139.176384 5)
+    (at 241.918896 139.287072 5)
     (path /5DA43C8E)
     (fp_text reference SW30 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4524,7 +4524,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1D2D)
-    (at 243.579213 158.153893 5)
+    (at 243.579213 158.264581 5)
     (path /5DA43CE2)
     (fp_text reference SW31 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4581,7 +4581,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1D5D)
-    (at 246.770687 179.221481 10)
+    (at 249.6034 178.945728 10)
     (path /5DA44858)
     (fp_text reference SW32 (at 7.1 8.2 10) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4638,7 +4638,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1D8D)
-    (at 257.575771 99.561049 5)
+    (at 257.575771 99.671737 5)
     (path /5DA42259)
     (fp_text reference SW33 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4695,7 +4695,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1DBD)
-    (at 259.236088 118.538558 5)
+    (at 259.236088 118.649246 5)
     (path /5DA42ECF)
     (fp_text reference SW34 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4752,7 +4752,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1DED)
-    (at 260.896405 137.516067 5)
+    (at 260.896405 137.626755 5)
     (path /5DA43C95)
     (fp_text reference SW35 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4809,7 +4809,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1E1D)
-    (at 262.556722 156.493576 5)
+    (at 262.556722 156.604264 5)
     (path /5DA43CE9)
     (fp_text reference SW36 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4866,7 +4866,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1E4D)
-    (at 273.705794 174.640927 5)
+    (at 273.705794 174.751614 5)
     (path /5DA448E4)
     (fp_text reference SW37 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4923,7 +4923,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1E7D)
-    (at 276.138201 93.156355 5)
+    (at 276.138201 93.267043 5)
     (path /5DA42260)
     (fp_text reference SW38 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4980,7 +4980,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1EAD)
-    (at 277.798518 112.133864 5)
+    (at 277.798518 112.244552 5)
     (path /5DA42ED6)
     (fp_text reference SW39 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5037,7 +5037,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1EDD)
-    (at 279.458835 131.111373 5)
+    (at 279.458835 131.222061 5)
     (path /5DA43C9C)
     (fp_text reference SW40 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5094,7 +5094,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1F0D)
-    (at 281.119152 150.088882 5)
+    (at 281.119152 150.19957 5)
     (path /5DA43CF0)
     (fp_text reference SW41 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5151,7 +5151,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1F3D)
-    (at 295.364758 94.342664 5)
+    (at 295.364758 94.453352 5)
     (path /5DA42267)
     (fp_text reference SW42 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5208,7 +5208,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1F6D)
-    (at 296.991868 112.940623 5)
+    (at 296.991868 113.051311 5)
     (path /5DA42EDD)
     (fp_text reference SW43 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5265,7 +5265,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1F9D)
-    (at 298.652185 131.918132 5)
+    (at 298.652185 132.02882 5)
     (path /5DA43CA3)
     (fp_text reference SW44 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5322,7 +5322,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1FCD)
-    (at 300.312502 150.895641 5)
+    (at 300.312502 151.006329 5)
     (path /5DA43CF7)
     (fp_text reference SW45 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5379,7 +5379,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB1FFD)
-    (at 314.757346 97.426725 5)
+    (at 314.757346 97.537412 5)
     (path /5DA4226E)
     (fp_text reference SW46 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5436,7 +5436,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB202D)
-    (at 316.417663 116.404234 5)
+    (at 316.417663 116.514921 5)
     (path /5DA42EE4)
     (fp_text reference SW47 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5493,7 +5493,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB205D)
-    (at 318.07798 135.381743 5)
+    (at 318.07798 135.49243 5)
     (path /5DA43CAA)
     (fp_text reference SW48 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5550,7 +5550,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB208D)
-    (at 319.738297 154.359252 5)
+    (at 319.738297 154.469939 5)
     (path /5DA43CFE)
     (fp_text reference SW49 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5664,7 +5664,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB20ED)
-    (at 333.734855 95.766408 5)
+    (at 333.734855 95.877096 5)
     (path /5DA42275)
     (fp_text reference SW51 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5721,7 +5721,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB211D)
-    (at 335.395172 114.743917 5)
+    (at 335.395172 114.854605 5)
     (path /5DA42EEB)
     (fp_text reference SW52 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5778,7 +5778,7 @@
   )
 
   (module emptystring:CherryMX_Hotswap_Back (layer F.Cu) (tedit 5C8B7E35) (tstamp 5DBB214D)
-    (at 337.055489 133.721426 5)
+    (at 337.055489 133.832114 5)
     (path /5DA43CB1)
     (fp_text reference SW53 (at 7.1 8.2 5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6152,8 +6152,8 @@
       (net 78 GND))
   )
 
-  (module emptystring:ProMicro_v2_Backside (layer F.Cu) (tedit 5C63EAF9) (tstamp 5DBB2294)
-    (at 214.73322 98.53651)
+  (module emptystring:ProMicro_v2_Backside (layer F.Cu) (tedit 5C63EAF9) (tstamp 5DC2549B)
+    (at 214.73322 96.44103)
     (path /5DB672AC)
     (fp_text reference U1 (at -1.27 2.762 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6303,5 +6303,17 @@
     (pad 24 thru_hole circle (at -7.5636 -14.478) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS)
       (net 80 "Net-(U1-Pad24)"))
   )
+
+  (gr_line (start 379.81097 78.58158) (end 72.62843 78.58158) (layer Edge.Cuts) (width 0.12) (tstamp 5DC2580B))
+  (gr_line (start 381.0016 189.31017) (end 381.0016 79.77221) (layer Edge.Cuts) (width 0.12) (tstamp 5DC2580A))
+  (gr_line (start 379.81097 190.5008) (end 284.56057 190.5008) (layer Edge.Cuts) (width 0.12) (tstamp 5DC25809))
+  (gr_line (start 144.06623 190.5008) (end 72.62843 190.5008) (layer Edge.Cuts) (width 0.12) (tstamp 5DC25802))
+  (gr_line (start 71.4378 79.77221) (end 71.4378 189.31017) (layer Edge.Cuts) (width 0.12) (tstamp 5DC25800))
+  (gr_arc (start 72.62843 79.77221) (end 72.62843 78.58158) (angle -90) (layer Edge.Cuts) (width 0.12))
+  (gr_arc (start 72.62843 189.31017) (end 71.4378 189.31017) (angle -90) (layer Edge.Cuts) (width 0.12))
+  (gr_arc (start 379.81097 189.31017) (end 379.81097 190.5008) (angle -90) (layer Edge.Cuts) (width 0.12))
+  (gr_arc (start 379.81097 79.77221) (end 381.0016 79.77221) (angle -90) (layer Edge.Cuts) (width 0.12))
+  (gr_line (start 214.3134 202.4071) (end 144.06623 190.5008) (layer Edge.Cuts) (width 0.12))
+  (gr_line (start 284.56057 190.5008) (end 214.3134 202.4071) (layer Edge.Cuts) (width 0.12))
 
 )
